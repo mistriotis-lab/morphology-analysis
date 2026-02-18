@@ -1,0 +1,5 @@
+{
+    // Use the included 'setup_venv.sh' to setup a 
+    // virtual environment with this path
+    "python.defaultInterpreterPath": "./.venv/bin/python"
+}

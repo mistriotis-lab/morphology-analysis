@@ -1,0 +1,6 @@
+numpy
+matplotlib
+nd2reader==3.3.1
+opencv-python
+Pillow
+scipy
