@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1160645091.svg)](https://doi.org/10.5281/zenodo.18687992)
+
 # Morphology Analysis Script
 
 This repository contains a Python script for generating a time-lapsed image of morphological variation of a single cell.
